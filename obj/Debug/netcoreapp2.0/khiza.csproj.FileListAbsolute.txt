@@ -1,0 +1,12 @@
+C:\msys64\home\khiza\bin\Debug\netcoreapp2.0\khiza.deps.json
+C:\msys64\home\khiza\bin\Debug\netcoreapp2.0\khiza.runtimeconfig.json
+C:\msys64\home\khiza\bin\Debug\netcoreapp2.0\khiza.runtimeconfig.dev.json
+C:\msys64\home\khiza\bin\Debug\netcoreapp2.0\khiza.dll
+C:\msys64\home\khiza\bin\Debug\netcoreapp2.0\khiza.pdb
+C:\msys64\home\khiza\obj\Debug\netcoreapp2.0\khiza.csprojAssemblyReference.cache
+C:\msys64\home\khiza\obj\Debug\netcoreapp2.0\khiza.AssemblyInfoInputs.cache
+C:\msys64\home\khiza\obj\Debug\netcoreapp2.0\khiza.AssemblyInfo.cs
+C:\msys64\home\khiza\obj\Debug\netcoreapp2.0\khiza.csproj.CoreCompileInputs.cache
+C:\msys64\home\khiza\obj\Debug\netcoreapp2.0\khiza.dll
+C:\msys64\home\khiza\obj\Debug\netcoreapp2.0\khiza.pdb
+C:\msys64\home\khiza\obj\Debug\netcoreapp2.0\khiza.genruntimeconfig.cache

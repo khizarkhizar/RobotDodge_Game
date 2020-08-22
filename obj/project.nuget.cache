@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bS/hQNA+vqjsQuXQF8SToUf1q8C0H2foklCK8+R4VCDLWHXr2k6JmgfnBOuuMA1J/4TEhZuzgciLzmVOZEgxyg==",
+  "success": true,
+  "projectFilePath": "C:\\msys64\\home\\game\\RobotDodge_Game\\khiza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khiza\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\khiza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\khiza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\khiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
